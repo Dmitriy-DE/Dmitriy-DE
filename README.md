@@ -12,39 +12,17 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Build terminal"/>
+</p>
+
 ## <code>&gt; two_lanes</code>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="./assets/two-lanes.svg" width="100%" alt="Work and GitHub lanes"/>
+</p>
 
-### Work / Delivery
-
-Professionally I work in **Technical Delivery / Programme Management**.
-
-This is where the résumé facts belong:
-
-- 10+ years in Project / Delivery Management
-- 4+ years in iGaming
-- engineering teams from roughly 5 to 30 people
-- roadmaps, dependencies, RAID, releases and incidents
-- cross-functional execution with Engineering, Product and Operations
-- fintech, SaaS/cloud, mobile/web and infrastructure delivery
-
-</td>
-<td width="50%" valign="top">
-
-### GitHub / Engineering
-
-This side is different.
-
-The projects below are where I **design, code, integrate, package, deploy and automate things myself**.
-
-I use them to explore product ideas, architecture and tooling without pretending that management experience is software authorship.
-
-</td>
-</tr>
-</table>
+The separation is intentional: **résumé facts describe what I lead professionally; GitHub shows what I build myself.**
 
 <br/>
 
@@ -135,41 +113,14 @@ Desktop + CLI + browser save tooling on one Python core.
 
 ## <code>&gt; how_i_build</code>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<p align="center">
+  <img src="./assets/principles.svg" width="100%" alt="Engineering principles"/>
+</p>
 
-### 🔨 Use a hammer
+<details>
+<summary><b>What follows from those three rules</b></summary>
 
-If a hammer solves it, I do not build a crane.
-
-**Reduce the problem until the solution becomes boring.**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🧩 Explain it to your mum
-
-If I cannot explain the system simply, I probably made it too complicated.
-
-**Simple model first. Cleverness later.**
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️ Automate everything
-
-If I have to repeat the same boring operation, it should become code.
-
-**Scripts > checklists > memory.**
-
-</td>
-</tr>
-</table>
-
-Everything else follows from those three:
-
-~~~text
+```text
 fewer moving parts
 clear boundaries
 visible failure
@@ -177,7 +128,9 @@ small deployable pieces
 boring infrastructure where possible
 tests around behaviour
 automation around repetition
-~~~
+```
+
+</details>
 
 <br/>
 
