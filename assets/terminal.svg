@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<style>
+@keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.cursor{animation:blink 1s steps(1) infinite}.dot{animation:pulse 2.2s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#101827"/></linearGradient>
+<linearGradient id="a"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="26" fill="url(#b)" stroke="#30363d"/>
+<rect width="1200" height="52" rx="26" fill="#161b22"/><rect y="28" width="1200" height="24" fill="#161b22"/>
+<circle cx="28" cy="26" r="6" fill="#f85149"/><circle cx="49" cy="26" r="6" fill="#f2cc60"/><circle cx="70" cy="26" r="6" fill="#3fb950"/>
+<text x="100" y="32" fill="#8b949e" font-family="monospace" font-size="14">dmytro@github:~/build</text>
+<text x="44" y="100" fill="#3fb950" font-family="monospace" font-size="17">$</text>
+<text x="69" y="100" fill="#f0f6fc" font-family="monospace" font-size="17">cat principles.txt</text>
+<text x="69" y="140" fill="#58a6ff" font-family="monospace" font-size="18">01</text><text x="112" y="140" fill="#c9d1d9" font-family="monospace" font-size="18">use a hammer</text>
+<text x="69" y="174" fill="#a371f7" font-family="monospace" font-size="18">02</text><text x="112" y="174" fill="#c9d1d9" font-family="monospace" font-size="18">explain it to your mum</text>
+<text x="69" y="208" fill="#f0883e" font-family="monospace" font-size="18">03</text><text x="112" y="208" fill="#c9d1d9" font-family="monospace" font-size="18">automate everything</text>
+<text x="44" y="268" fill="#3fb950" font-family="monospace" font-size="17">$</text>
+<text x="69" y="268" fill="#f0f6fc" font-family="monospace" font-size="17">build --boring --observable --repeatable</text>
+<rect class="cursor" x="498" y="250" width="10" height="23" fill="#58a6ff"/>
+<g transform="translate(730 82)">
+<rect width="410" height="210" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="37" fill="#8b949e" font-family="monospace" font-size="13">currently shipping</text>
+<circle class="dot" cx="27" cy="76" r="5" fill="#58a6ff"/><text x="44" y="81" fill="#c9d1d9" font-family="monospace" font-size="14">product tooling</text>
+<circle class="dot" cx="27" cy="111" r="5" fill="#a371f7" style="animation-delay:.4s"/><text x="44" y="116" fill="#c9d1d9" font-family="monospace" font-size="14">backend systems</text>
+<circle class="dot" cx="27" cy="146" r="5" fill="#f0883e" style="animation-delay:.8s"/><text x="44" y="151" fill="#c9d1d9" font-family="monospace" font-size="14">automation</text>
+<circle class="dot" cx="27" cy="181" r="5" fill="#3fb950" style="animation-delay:1.2s"/><text x="44" y="186" fill="#c9d1d9" font-family="monospace" font-size="14">edge / cloud runtimes</text>
+</g>
+</svg>
