@@ -94,10 +94,10 @@ Some commercial work is intentionally **anonymised** because the repositories an
 
 | | Project | Description |
 |:--:|---|---|
-| 🧭 | **Project Planning Platform** | Planning and delivery tooling for roadmaps, execution visibility, workflow automation and project operations |
-| 🚗 | **CRM Platform** | Operational CRM for an automotive business: customer workflows, internal operations, data handling and process automation |
-| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Cross-platform desktop tooling for inspecting and modifying game saves, packaged for end users |
-| 🔎 | **Telegram / OSINT tooling** | Bot-driven automation, data processing and workflow tooling around Telegram |
+| 🧭 | [**Project Planning Platform**](https://github.com/Dmitriy-DE/project-planning) | Planning and delivery tooling for roadmaps, execution visibility, workflow automation and project operations |
+| 🚗 | [**CRM Platform**](https://github.com/Dmitriy-DE/avtosvitcrm) | Operational CRM for an automotive business: customer workflows, internal operations, data handling and process automation |
+| ☢️ | [**S.T.A.L.K.E.R. Save Editor**](https://github.com/Dmitriy-DE/S.T.A.L.K.E.R.-Save_Editor) | Cross-platform desktop tooling for inspecting and modifying game saves, packaged for end users |
+| 🔎 | [**Telegram / OSINT tooling**](https://github.com/Dmitriy-DE/TELEGRAM-OSINT-BOT) | Bot-driven automation, data processing and workflow tooling around Telegram |
 
 ### Private commercial work — anonymised
 
@@ -196,6 +196,20 @@ flowchart LR
 04  Fintech / payment infrastructure
 05  Building small products that solve annoying real problems
 ```
+
+<br/>
+
+## <code>&gt; contact</code>
+
+<p align="center">
+  <b>Open to:</b> Technical Delivery Lead · Program Manager · Head of Delivery · Technical PM
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dmitriy-DE">
+    <img src="https://img.shields.io/badge/GitHub-Dmitriy--DE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
