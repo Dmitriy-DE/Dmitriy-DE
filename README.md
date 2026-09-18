@@ -24,7 +24,7 @@ My background spans **SaaS, fintech, iGaming, infrastructure, mobile and web pro
 <p>
   <img src="https://img.shields.io/badge/10%2B_years-Project_%26_Delivery_Management-1F6FEB?style=flat-square" />
   <img src="https://img.shields.io/badge/4%2B_years-iGaming-8250DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teams-4%E2%80%9320_people-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Teams-5%E2%80%9330_people-238636?style=flat-square" />
   <img src="https://img.shields.io/badge/Cadence-2_week_sprints-DA3633?style=flat-square" />
 </p>
 
@@ -110,7 +110,7 @@ Some commercial work is intentionally **anonymised** because the repositories an
 Technical delivery across a production iGaming environment with multiple parallel workstreams.
 
 - 4+ years in iGaming
-- Engineering squads of roughly 4–10 people
+- Engineering teams of roughly 5–30 people
 - 2-week sprint cadence
 - Multi-feature releases
 - Cross-team dependencies
