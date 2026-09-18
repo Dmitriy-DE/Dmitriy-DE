@@ -19,6 +19,21 @@ I work where **engineering, product and delivery** meet — turning unclear goal
 
 My background spans **SaaS, fintech, iGaming, infrastructure, mobile and web products**, from hands-on project delivery to programme-level coordination with CTOs and engineering leadership.
 
+### Management snapshot
+
+<p>
+  <img src="https://img.shields.io/badge/10%2B_years-Project_%26_Delivery_Management-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/4%2B_years-iGaming-8250DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Teams-4%E2%80%9320_people-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cadence-2_week_sprints-DA3633?style=flat-square" />
+</p>
+
+- Led delivery for engineering teams and cross-functional product squads.
+- Worked directly with **CTOs, Engineering Leads, Product, Operations and external partners**.
+- Managed **roadmaps, release planning, dependencies, RAID, delivery forecasting and incident follow-ups**.
+- Typical delivery cadence: **2-week sprints** and multi-feature releases with parallel workstreams.
+- Built delivery processes around **clear ownership, measurable outcomes, predictable releases and fast escalation**.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -72,16 +87,85 @@ My background spans **SaaS, fintech, iGaming, infrastructure, mobile and web pro
 
 ## <code>&gt; selected_work</code>
 
-A mix of products and systems I've **built, contributed to, or helped deliver**.
+A mix of products and systems I've **built, contributed to, or helped deliver**.  
+Some commercial work is intentionally **anonymised** because the repositories and client details are private.
 
-| | Project / domain | My involvement |
+### Public / personal work
+
+| | Project | Description |
 |:--:|---|---|
-| 🧭 | **Project Planning Platform** | Product direction, delivery logic, workflows and automation |
-| 🚗 | **CRM Platform** | Delivery and engineering work around an operational automotive CRM |
-| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Built cross-platform desktop tooling for inspecting and modifying game saves |
-| 🎰 | **iGaming Platform & Mail Automation** | Backend, delivery and operational tooling across private iGaming systems |
-| 🔎 | **Telegram / OSINT tooling** | Automation, data processing and bot-driven workflows |
-| 📱 | **Mobile products** | Delivery across iOS / Android products including social and mobility apps |
+| 🧭 | **Project Planning Platform** | Planning and delivery tooling for roadmaps, execution visibility, workflow automation and project operations |
+| 🚗 | **CRM Platform** | Operational CRM for an automotive business: customer workflows, internal operations, data handling and process automation |
+| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Cross-platform desktop tooling for inspecting and modifying game saves, packaged for end users |
+| 🔎 | **Telegram / OSINT tooling** | Bot-driven automation, data processing and workflow tooling around Telegram |
+
+### Private commercial work — anonymised
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎰 B2B iGaming Platform
+
+Technical delivery across a production iGaming environment with multiple parallel workstreams.
+
+- 4+ years in iGaming
+- Engineering squads of roughly 4–10 people
+- 2-week sprint cadence
+- Multi-feature releases
+- Cross-team dependencies
+- Release governance
+- Production incident follow-ups
+- OKRs, KPIs and RAID
+
+</td>
+<td width="50%" valign="top">
+
+#### 💳 Fintech & Payments
+
+Delivery of regulated financial products and payment infrastructure.
+
+- Card and account-based products
+- Crypto-to-fiat flows
+- KYC / AML integrations
+- Custody, exchange and ledger integrations
+- Third-party vendor coordination
+- Compliance-driven delivery constraints
+- Business-critical integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ☁️ Enterprise SaaS & Cloud
+
+Delivery around cloud-native platforms and operational infrastructure.
+
+- AWS-based environments
+- Containerised workloads
+- CI/CD and release processes
+- Reliability and operational workflows
+- Customer-facing SaaS delivery
+- Infrastructure / application dependencies
+
+</td>
+<td width="50%" valign="top">
+
+#### 📱 Mobile & Web Products
+
+Cross-functional delivery across consumer and B2B applications.
+
+- iOS / Android / backend coordination
+- Product + engineering planning
+- API and integration dependencies
+- Release sequencing
+- Stakeholder management
+- Distributed teams
+
+</td>
+</tr>
+</table>
 
 <br/>
 
