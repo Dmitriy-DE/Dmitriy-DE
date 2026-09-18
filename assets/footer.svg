@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs><linearGradient id="g"><stop stop-color="#1f6feb"/><stop offset=".5" stop-color="#8250df"/><stop offset="1" stop-color="#238636"/></linearGradient></defs>
+<rect width="1200" height="220" rx="24" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="1200" height="5" rx="2.5" fill="url(#g)"/>
+<text x="60" y="68" fill="#f0f6fc" font-family="Arial" font-size="26" font-weight="700">Build things. Ship things. Make the boring parts disappear.</text>
+<text x="60" y="104" fill="#8b949e" font-family="monospace" font-size="13">professional lane</text>
+<text x="60" y="130" fill="#c9d1d9" font-family="Arial" font-size="16">Technical Delivery Lead · Technical Program Manager · Head of Delivery · Technical PM</text>
+<text x="60" y="166" fill="#8b949e" font-family="monospace" font-size="13">github lane</text>
+<text x="60" y="192" fill="#c9d1d9" font-family="Arial" font-size="16">products · backend · tooling · automation · infrastructure</text>
+</svg>
