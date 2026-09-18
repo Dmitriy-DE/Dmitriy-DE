@@ -6,9 +6,9 @@
 <rect width="330" height="240" rx="22" fill="#111827" stroke="#30363d"/>
 <circle cx="52" cy="52" r="30" fill="#58a6ff" opacity=".15"/><text x="52" y="63" text-anchor="middle" font-size="32">🔨</text>
 <text x="32" y="112" fill="#58a6ff" font-family="monospace" font-size="14">01</text>
-<text x="32" y="148" fill="#f0f6fc" font-family="Arial" font-size="23" font-weight="700">Use a hammer</text>
-<text x="32" y="184" fill="#c9d1d9" font-family="Arial" font-size="15">Do not build a crane</text>
-<text x="32" y="207" fill="#c9d1d9" font-family="Arial" font-size="15">for a hammer-sized problem.</text>
+<text x="32" y="148" fill="#f0f6fc" font-family="Arial" font-size="23" font-weight="700">Like a hammer</text>
+<text x="32" y="184" fill="#c9d1d9" font-family="Arial" font-size="15">Keep the solution direct</text>
+<text x="32" y="207" fill="#c9d1d9" font-family="Arial" font-size="15">and hard to misuse.</text>
 </g>
 <g transform="translate(435 130)">
 <rect width="330" height="240" rx="22" fill="#111827" stroke="#30363d"/>
