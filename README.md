@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Dmytro Breygel — Technical Delivery and hands-on engineering" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="D — Technical Delivery and hands-on engineering" />
 </p>
 
 <p align="center">
@@ -68,6 +68,10 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/engineering-spectrum.svg" width="100%" alt="Engineering spectrum"/>
+</p>
 
 <br/>
 
