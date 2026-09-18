@@ -22,89 +22,49 @@
   <img src="./assets/two-lanes.svg" width="100%" alt="Work and GitHub lanes"/>
 </p>
 
-The separation is intentional: **résumé facts describe what I lead professionally; GitHub shows what I build myself.**
+<p align="center">
+  <sub>Résumé facts describe what I lead professionally. GitHub shows what I build myself.</sub>
+</p>
 
 <br/>
 
 ## <code>&gt; featured_builds</code>
 
-<p align="center">
-  <img src="./assets/portfolio.svg" width="100%" alt="Engineering portfolio"/>
-</p>
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧭 [Delivery Planner](https://github.com/Dmitriy-DE/delivery-planner-showcase)
-
-Planning / governance platform with a real domain model rather than a prettier task list.
-
-<code>Next.js</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>Drizzle</code> · <code>OpenAPI</code>
-
-**Built around:** planning semantics, scenarios, baselines, resource demand, provider adapters, auditability.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/delivery-planner-showcase">
+    <img src="./assets/cards/delivery-planner.svg" width="100%" alt="Delivery Planner"/>
+  </a>
 </td>
-<td width="50%" valign="top">
-
-### 🚗 [Automotive CRM](https://github.com/Dmitriy-DE/automotive-crm-showcase)
-
-Operational CRM spanning web, API, bots and Telegram Mini Apps.
-
-<code>Node.js</code> · <code>Express</code> · <code>React</code> · <code>SQLite</code> · <code>Docker</code>
-
-**Built around:** one business domain exposed through several runtime surfaces.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/automotive-crm-showcase">
+    <img src="./assets/cards/automotive-crm.svg" width="100%" alt="Automotive CRM"/>
+  </a>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 📣 [Campaign Platform](https://github.com/Dmitriy-DE/campaign-platform-showcase)
-
-Backend-heavy campaign and user-operations system.
-
-<code>TypeScript</code> · <code>Express 5</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Playwright</code>
-
-**Built around:** APIs, webhooks, auth, imports, operations, migrations and testing.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/campaign-platform-showcase">
+    <img src="./assets/cards/campaign-platform.svg" width="100%" alt="Campaign Platform"/>
+  </a>
 </td>
-<td width="50%" valign="top">
-
-### 🎰 [Automation Platform](https://github.com/Dmitriy-DE/igaming-automation-platform-showcase)
-
-An 18-direction private monorepo turned into a public platform-engineering case study.
-
-<code>Node.js</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Linux</code>
-
-**Built around:** service boundaries, shared infrastructure, control plane, schedulers and deployment automation.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/igaming-automation-platform-showcase">
+    <img src="./assets/cards/automation-platform.svg" width="100%" alt="Automation Platform"/>
+  </a>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 🛍️ [DealFeed](https://github.com/Dmitriy-DE/dealfeed-showcase)
-
-TikTok-style shopping feed for mobile.
-
-<code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>PostHog</code>
-
-**Built around:** ingestion, RLS, Edge Functions, affiliate redirects, analytics and GDPR flows.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/dealfeed-showcase">
+    <img src="./assets/cards/dealfeed.svg" width="100%" alt="DealFeed"/>
+  </a>
 </td>
-<td width="50%" valign="top">
-
-### ☢️ [S.T.A.L.K.E.R. Save Editor](https://github.com/Dmitriy-DE/stalker-save-editor-showcase)
-
-Desktop + CLI + browser save tooling on one Python core.
-
-<code>Python</code> · <code>Qt</code> · <code>Pyodide</code> · <code>WebAssembly</code> · <code>Steam API</code>
-
-**Built around:** binary formats, safe mutation, native boundaries, packaging and browser execution.
-
+<td width="50%" align="center">
+  <a href="https://github.com/Dmitriy-DE/stalker-save-editor-showcase">
+    <img src="./assets/cards/stalker.svg" width="100%" alt="S.T.A.L.K.E.R. Save Editor"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -114,11 +74,11 @@ Desktop + CLI + browser save tooling on one Python core.
 ## <code>&gt; how_i_build</code>
 
 <p align="center">
-  <img src="./assets/principles.svg" width="100%" alt="Engineering principles"/>
+  <img src="./assets/how-i-build-strip.svg" width="100%" alt="How I build"/>
 </p>
 
 <details>
-<summary><b>What follows from those three rules</b></summary>
+<summary><b>Everything else follows from those three rules</b></summary>
 
 ```text
 fewer moving parts
@@ -136,24 +96,16 @@ automation around repetition
 
 ## <code>&gt; current_build_mode</code>
 
-~~~text
-product tools
-backend systems
-automation
-developer / delivery tooling
-cloud & edge runtimes
-AI-assisted build workflows
-things that remove repetitive work
-~~~
+<p align="center">
+  <img src="./assets/current-mode.svg" width="100%" alt="Current build mode"/>
+</p>
 
 <br/>
 
 ## <code>&gt; contact</code>
 
 <p align="center">
-  <b>Professional:</b> Technical Delivery Lead · Technical Program Manager · Head of Delivery · Technical PM
-  <br/>
-  <b>GitHub:</b> products · tooling · backend · automation
+  <img src="./assets/footer.svg" width="100%" alt="Contact and professional focus"/>
 </p>
 
 <p align="center">
