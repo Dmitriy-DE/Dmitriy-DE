@@ -50,6 +50,10 @@ I use them to explore product ideas, architecture and tooling without pretending
 
 ## <code>&gt; featured_builds</code>
 
+<p align="center">
+  <img src="./assets/portfolio.svg" width="100%" alt="Engineering portfolio"/>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
