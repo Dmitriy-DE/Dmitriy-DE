@@ -1,122 +1,116 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:8250DF&text=Dmytro%20Breygel&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Technical%20Delivery%20%E2%80%A2%20Programmes%20%E2%80%A2%20Product%20Engineering&descSize=17&descAlignY=57&animation=fadeIn" />
+</p>
 
-# Dmytro Breygel
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+ambiguity+into+execution;Making+complex+delivery+predictable;Building+tools+when+process+alone+isn%27t+enough" alt="Typing SVG" />
+</p>
 
-### Technical Delivery Lead · Program & Project Management · Product Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B_years-Delivery_%26_Programme_Management-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Engineering_%C3%97_Product_%C3%97_Operations-8250DF?style=for-the-badge" />
+</p>
 
-I turn complex technical initiatives into structured execution, predictable delivery and working products.
+<br/>
 
-**10+ years in Project & Delivery Management** across SaaS, fintech, iGaming, infrastructure, mobile and web products.
+## <code>&gt; whoami</code>
 
-</div>
+I work where **engineering, product and delivery** meet — turning unclear goals, cross-team dependencies and technical constraints into something teams can actually ship.
 
----
+My background spans **SaaS, fintech, iGaming, infrastructure, mobile and web products**, from hands-on project delivery to programme-level coordination with CTOs and engineering leadership.
 
-## About me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I work at the intersection of **engineering, product and delivery**.
+### ⚙️ Delivery
 
-My focus is turning ambiguous business and technical goals into executable systems:
+- Cross-functional programmes
+- Release & delivery governance
+- Dependency management
+- RAID & forecasting
+- Incident follow-ups
+- OKRs / KPIs
+- Team leadership
 
-- cross-functional delivery and programme management
-- engineering planning and release governance
-- dependencies, RAID and delivery forecasting
-- technical product development
-- incident and operational processes
-- cloud infrastructure and CI/CD
-- automation and AI-assisted development
-- team leadership and stakeholder management
+</td>
+<td width="50%" valign="top">
 
-I work closely with CTOs, engineering leads, product teams and business stakeholders, with a strong bias toward clear ownership, measurable progress and predictable releases.
+### 🧩 Technical
 
----
+- Product engineering
+- Backend & automation
+- Cloud / CI/CD
+- APIs & integrations
+- PostgreSQL
+- Telegram tooling
+- AI-assisted development
 
-## What I build
+</td>
+</tr>
+</table>
 
-### Project Planning Platform
+<br/>
 
-A planning and delivery-management system built around real project execution rather than static task tracking.
+## <code>&gt; toolkit</code>
 
-**Focus:** planning, delivery visibility, workflows, automation and project operations.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,postgres,docker,aws,githubactions,linux,git&perline=10" alt="Tech stack" />
+</p>
 
-`Product Engineering` · `Delivery Management` · `Automation`
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical_Delivery-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Programme_Management-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Release_Governance-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident_Management-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAID-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/OKRs_%2F_KPIs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile_%2F_Scrum-111827?style=flat-square" />
+</p>
 
-### S.T.A.L.K.E.R. Save Editor
+<br/>
 
-Cross-platform desktop tooling for inspecting and modifying game save data, packaged for end users rather than requiring a local development environment.
+## <code>&gt; selected_builds</code>
 
-`Python` · `Desktop` · `Linux` · `Windows` · `CI/CD`
+| | Project | What it does |
+|:--:|---|---|
+| 🗺️ | **Project Planning** | Planning and delivery tooling focused on execution visibility, workflows and automation |
+| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Cross-platform desktop tooling for inspecting and modifying game saves |
+| 🔄 | **Traffic Broker** | Telegram-based workflow for ingesting, matching and operating traffic offers |
+| 🔎 | **Telegram / OSINT tooling** | Automation and data-processing utilities built around Telegram workflows |
 
-### Traffic Broker
+<br/>
 
-Telegram-based marketplace infrastructure for matching traffic buyers and sellers, with offer ingestion, matching logic, operational workflows and deal management.
+## <code>&gt; operating_model</code>
 
-`Telegram` · `Python` · `PostgreSQL` · `Automation`
-
-### Telegram Automation & OSINT
-
-Production-oriented tooling around Telegram automation, data processing and bot-driven workflows.
-
-`Python` · `Telethon` · `aiogram` · `PostgreSQL`
-
----
-
-## Technical toolkit
-
-### Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Delivery
-
-`Agile` · `Scrum` · `Kanban` · `OKRs` · `KPIs` · `RAID` · `Release Management` · `Incident Management` · `SDLC` · `Technical Programme Management`
-
----
-
-## How I work
-
-```text
-Business objective
-       ↓
-Technical decomposition
-       ↓
-Teams + dependencies + risks
-       ↓
-Execution & delivery governance
-       ↓
-Release
-       ↓
-Metrics, incidents & iteration
+```mermaid
+flowchart LR
+    A["Business objective"] --> B["Technical scope"]
+    B --> C["Teams + dependencies"]
+    C --> D["Execution"]
+    D --> E["Release"]
+    E --> F["Metrics + incidents"]
+    F --> B
 ```
 
-I prefer systems where ownership is clear, progress is measurable and delivery problems become visible before they become release problems.
+<p align="center">
+  <b>Clear ownership · Visible risk · Predictable delivery · Fast feedback</b>
+</p>
 
----
+<br/>
 
-## Current interests
+## <code>&gt; current_focus</code>
 
-- AI-assisted software delivery
-- developer productivity
-- delivery automation
-- engineering operations
-- cloud-native systems
-- Telegram automation
-- fintech and payment infrastructure
+```text
+01  AI-assisted software delivery
+02  Developer productivity & delivery automation
+03  Cloud-native systems and operational tooling
+04  Fintech / payment infrastructure
+05  Building small products that solve annoying real problems
+```
 
----
+<br/>
 
-<div align="center">
-
-### Build systems. Ship products. Improve the process.
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,45:1F6FEB,100:8250DF" width="100%" />
+</p>
