@@ -1,83 +1,54 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:8250DF&text=Dmytro%20Breygel&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Technical%20Delivery%20%E2%80%A2%20Systems%20%E2%80%A2%20Product%20Engineering&descSize=17&descAlignY=57&animation=fadeIn" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Dmytro Breygel — Technical Delivery and hands-on engineering" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+products%2C+tools+and+automation;Designing+systems+that+survive+real+operations;Engineering+%C3%97+Delivery+%C3%97+Product" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<br/>
-
-## <code>&gt; whoami</code>
-
-I'm a **Technical Delivery / Programme lead who also builds software**.
-
-Most of my professional background is delivery leadership across **iGaming, fintech, SaaS, infrastructure, mobile and web**, but GitHub is where I keep the engineering side: products, internal tools, automation, integrations and experiments.
-
-I tend to work on systems where product logic, backend engineering and operations overlap.
-
-<br/>
-
-## <code>&gt; engineering_stack</code>
+## <code>&gt; two_lanes</code>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Backend
+### Work / Delivery
 
-- Python
-- TypeScript / Node.js
-- FastAPI
-- Express
-- REST / OpenAPI
-- Async I/O
+Professionally I work in **Technical Delivery / Programme Management**.
 
-</td>
-<td width="33%" valign="top">
+This is where the résumé facts belong:
 
-### Data & Integrations
-
-- PostgreSQL
-- Drizzle ORM
-- SQLite
-- Telegram APIs
-- OAuth / third-party APIs
-- Background workers
+- 10+ years in Project / Delivery Management
+- 4+ years in iGaming
+- engineering teams from roughly 5 to 30 people
+- roadmaps, dependencies, RAID, releases and incidents
+- cross-functional execution with Engineering, Product and Operations
+- fintech, SaaS/cloud, mobile/web and infrastructure delivery
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Infra & Tooling
+### GitHub / Engineering
 
-- Docker / Compose
-- AWS
-- GitHub Actions
-- Linux
-- CI/CD
-- PyInstaller
+This side is different.
+
+The projects below are where I **design, code, integrate, package, deploy and automate things myself**.
+
+I use them to explore product ideas, architecture and tooling without pretending that management experience is software authorship.
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,nextjs,fastapi,postgres,docker,aws,githubactions,linux,git&perline=11" alt="Tech stack" />
-</p>
-
 <br/>
 
-## <code>&gt; featured_engineering</code>
-
-Public architecture showcases derived from private product codebases. Each one focuses on **system design, implementation decisions and sanitised technical examples** rather than publishing the commercial source.
+## <code>&gt; featured_builds</code>
 
 <table>
 <tr>
@@ -85,70 +56,72 @@ Public architecture showcases derived from private product codebases. Each one f
 
 ### 🧭 [Delivery Planner](https://github.com/Dmitriy-DE/delivery-planner-showcase)
 
-Provider-neutral planning, forecasting and delivery-governance platform.
+Planning / governance platform with a real domain model rather than a prettier task list.
 
-`Next.js` · `Node.js` · `PostgreSQL` · `Drizzle` · `OpenAPI`
+<code>Next.js</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>Drizzle</code> · <code>OpenAPI</code>
 
-**Inside:** modular-monolith architecture, provider adapters, planning semantics, tenancy and release gates.
+**Built around:** planning semantics, scenarios, baselines, resource demand, provider adapters, auditability.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚗 [Automotive CRM](https://github.com/Dmitriy-DE/automotive-crm-showcase)
 
-Multi-service operational CRM with bots, public API and Telegram Mini Apps.
+Operational CRM spanning web, API, bots and Telegram Mini Apps.
 
-`Node.js` · `Express` · `React` · `SQLite` · `Docker`
+<code>Node.js</code> · <code>Express</code> · <code>React</code> · <code>SQLite</code> · <code>Docker</code>
 
-**Inside:** service topology, auth/validation boundaries, multi-channel workflows and test strategy.
+**Built around:** one business domain exposed through several runtime surfaces.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 📣 [Campaign Platform](https://github.com/Dmitriy-DE/campaign-platform-showcase)
 
-Self-hosted campaign and user-operations backend.
+Backend-heavy campaign and user-operations system.
 
-`TypeScript` · `Express 5` · `PostgreSQL` · `Docker` · `Playwright`
+<code>TypeScript</code> · <code>Express 5</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Playwright</code>
 
-**Inside:** API lifecycle, webhook security, operational tooling and test pyramid.
+**Built around:** APIs, webhooks, auth, imports, operations, migrations and testing.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎰 [Automation Platform](https://github.com/Dmitriy-DE/igaming-automation-platform-showcase)
 
-Sanitised architecture of an 18-direction automation monorepo.
+An 18-direction private monorepo turned into a public platform-engineering case study.
 
-`Node.js` · `PostgreSQL` · `Docker` · `Linux` · `Monorepo`
+<code>Node.js</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>Linux</code>
 
-**Inside:** control plane, service isolation, schedulers, deployment boundaries and shared infrastructure.
+**Built around:** service boundaries, shared infrastructure, control plane, schedulers and deployment automation.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🛍️ [DealFeed](https://github.com/Dmitriy-DE/dealfeed-showcase)
 
-TikTok-style mobile shopping feed with affiliate ingestion and privacy-aware analytics.
+TikTok-style shopping feed for mobile.
 
-`React Native` · `Expo` · `TypeScript` · `Supabase` · `PostHog`
+<code>React Native</code> · <code>Expo</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>PostHog</code>
 
-**Inside:** mobile architecture, RLS, Edge Functions, ingestion, redirect tracking and GDPR flows.
+**Built around:** ingestion, RLS, Edge Functions, affiliate redirects, analytics and GDPR flows.
 
 </td>
 <td width="50%" valign="top">
 
 ### ☢️ [S.T.A.L.K.E.R. Save Editor](https://github.com/Dmitriy-DE/stalker-save-editor-showcase)
 
-Cross-platform binary save tooling with one shared Python core.
+Desktop + CLI + browser save tooling on one Python core.
 
-`Python` · `Qt` · `Pyodide` · `WebAssembly` · `Steam API`
+<code>Python</code> · <code>Qt</code> · <code>Pyodide</code> · <code>WebAssembly</code> · <code>Steam API</code>
 
-**Inside:** binary parsing, format registry, immutable preview, native boundaries and browser runtime.
+**Built around:** binary formats, safe mutation, native boundaries, packaging and browser execution.
 
 </td>
 </tr>
@@ -156,118 +129,78 @@ Cross-platform binary save tooling with one shared Python core.
 
 <br/>
 
-## <code>&gt; private_systems</code>
-
-A large part of my commercial engineering work cannot be published, so the architecture is described without client names, source code or proprietary details.
+## <code>&gt; how_i_build</code>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🎰 B2B iGaming
+### 🔨 Use a hammer
 
-Production platform and operational tooling across multiple engineering workstreams.
+If a hammer solves it, I do not build a crane.
 
-`APIs` · `Cloud` · `CI/CD` · `Integrations` · `Observability`
-
-Worked around release flows, service dependencies, integrations, production incidents and platform operations in a high-change environment.
+**Reduce the problem until the solution becomes boring.**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 💳 Fintech / Payments
+### 🧩 Explain it to your mum
 
-Payment and regulated-finance systems with external infrastructure providers.
+If I cannot explain the system simply, I probably made it too complicated.
 
-`KYC / AML` · `Ledger` · `Custody` · `Exchange APIs` · `Cards`
-
-Included crypto-to-fiat flows, identity/compliance integrations, ledger and custody boundaries, and business-critical third-party APIs.
+**Simple model first. Cleverness later.**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ☁️ SaaS / Cloud Platforms
+### ⚙️ Automate everything
 
-Cloud-hosted enterprise products and supporting operational infrastructure.
+If I have to repeat the same boring operation, it should become code.
 
-`AWS` · `Containers` · `CI/CD` · `APIs` · `Monitoring`
-
-Focused on application/infrastructure dependencies, deployment processes, reliability and delivery across distributed systems.
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile + Backend
-
-Consumer and B2B products spanning mobile clients and backend services.
-
-`iOS` · `Android` · `REST APIs` · `Backend` · `Integrations`
-
-Worked across mobile/backend contracts, API dependencies, release sequencing and multi-platform delivery.
+**Scripts > checklists > memory.**
 
 </td>
 </tr>
 </table>
 
-<br/>
+Everything else follows from those three:
 
-## <code>&gt; engineering_principles</code>
-
-```text
-make state explicit
-prefer boring infrastructure
-keep boundaries clear
-fail closed when data is uncertain
-test behaviour, not implementation details
-automate repeatable operational work
-ship small, observable changes
-```
+~~~text
+fewer moving parts
+clear boundaries
+visible failure
+small deployable pieces
+boring infrastructure where possible
+tests around behaviour
+automation around repetition
+~~~
 
 <br/>
 
-## <code>&gt; delivery_context</code>
+## <code>&gt; current_build_mode</code>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/10%2B_years-Project_%26_Delivery_Management-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/4%2B_years-iGaming-8250DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teams-5%E2%80%9330_people-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Technical_Delivery-DA3633?style=flat-square" />
-</p>
-
-I also lead engineering delivery: roadmaps, dependencies, releases, RAID, incident follow-ups and cross-functional execution with CTOs, Engineering, Product and Operations.
-
-That experience shapes how I build software: **operability, ownership, failure modes and deployment matter as much as the happy-path implementation.**
-
-<br/>
-
-## <code>&gt; current_focus</code>
-
-```text
-01  AI-assisted engineering and delivery
-02  Developer productivity and internal tooling
-03  Cloud-native systems and automation
-04  Fintech / payment infrastructure
-05  Small products that remove repetitive operational work
-```
+~~~text
+product tools
+backend systems
+automation
+developer / delivery tooling
+cloud & edge runtimes
+AI-assisted build workflows
+things that remove repetitive work
+~~~
 
 <br/>
 
 ## <code>&gt; contact</code>
 
 <p align="center">
-  <b>Open to:</b> Technical Delivery Lead · Technical Program Manager · Head of Delivery · Technical PM
+  <b>Professional:</b> Technical Delivery Lead · Technical Program Manager · Head of Delivery · Technical PM
+  <br/>
+  <b>GitHub:</b> products · tooling · backend · automation
 </p>
 
 <p align="center">
   <a href="https://github.com/Dmitriy-DE">
-    <img src="https://img.shields.io/badge/GitHub-Dmitriy--DE-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/@Dmitriy--DE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,45:1F6FEB,100:8250DF" width="100%" />
 </p>
