@@ -70,14 +70,18 @@ My background spans **SaaS, fintech, iGaming, infrastructure, mobile and web pro
 
 <br/>
 
-## <code>&gt; selected_builds</code>
+## <code>&gt; selected_work</code>
 
-| | Project | What it does |
+A mix of products and systems I've **built, contributed to, or helped deliver**.
+
+| | Project / domain | My involvement |
 |:--:|---|---|
-| 🗺️ | **Project Planning** | Planning and delivery tooling focused on execution visibility, workflows and automation |
-| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Cross-platform desktop tooling for inspecting and modifying game saves |
-| 🔄 | **Traffic Broker** | Telegram-based workflow for ingesting, matching and operating traffic offers |
-| 🔎 | **Telegram / OSINT tooling** | Automation and data-processing utilities built around Telegram workflows |
+| 🧭 | **Project Planning Platform** | Product direction, delivery logic, workflows and automation |
+| 🚗 | **CRM Platform** | Delivery and engineering work around an operational automotive CRM |
+| ☢️ | **S.T.A.L.K.E.R. Save Editor** | Built cross-platform desktop tooling for inspecting and modifying game saves |
+| 🎰 | **iGaming Platform & Mail Automation** | Backend, delivery and operational tooling across private iGaming systems |
+| 🔎 | **Telegram / OSINT tooling** | Automation, data processing and bot-driven workflows |
+| 📱 | **Mobile products** | Delivery across iOS / Android products including social and mobility apps |
 
 <br/>
 
