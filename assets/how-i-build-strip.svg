@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58a6ff"/><stop offset=".5" stop-color="#a371f7"/><stop offset="1" stop-color="#f0883e"/></linearGradient></defs>
+<rect width="1200" height="190" rx="24" fill="#0d1117" stroke="#30363d"/>
+<rect x="58" y="52" width="1084" height="4" rx="2" fill="url(#b)" opacity=".75"/>
+<circle cx="190" cy="54" r="13" fill="#58a6ff"/><circle cx="600" cy="54" r="13" fill="#a371f7"/><circle cx="1010" cy="54" r="13" fill="#f0883e"/>
+<text x="190" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="21" font-weight="700">Like a hammer</text>
+<text x="190" y="130" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">simple · direct · hard to misuse</text>
+<text x="600" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="21" font-weight="700">Explain it simply</text>
+<text x="600" y="130" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">if mum gets it, the model is probably sane</text>
+<text x="1010" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="21" font-weight="700">Automate everything</text>
+<text x="1010" y="130" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">repeatable boring work belongs in code</text>
+</svg>
