@@ -75,62 +75,84 @@ I tend to work on systems where product logic, backend engineering and operation
 
 <br/>
 
-## <code>&gt; selected_projects</code>
+## <code>&gt; featured_engineering</code>
 
-### 🧭 [Delivery Planner](https://github.com/Dmitriy-DE/project-planning)
+Public architecture showcases derived from private product codebases. Each one focuses on **system design, implementation decisions and sanitised technical examples** rather than publishing the commercial source.
 
-Provider-neutral planning and delivery workspace for project, programme and portfolio management.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Next.js` · `Node.js` · `PostgreSQL` · `Drizzle` · `REST / OpenAPI` · `Docker`
+### 🧭 [Delivery Planner](https://github.com/Dmitriy-DE/delivery-planner-showcase)
 
-- Modular monolith with a web app and background worker.
-- Versioned REST contract and provider adapter boundary.
-- Resource-constrained planning, scenarios, baselines, governance, risks and release readiness.
-- Jira integration boundary plus provider-neutral architecture for additional execution systems.
-- Tenant-aware permissions, audit events, idempotency and integration-token handling.
-- Integration, E2E, schema, security and release checks in CI.
+Provider-neutral planning, forecasting and delivery-governance platform.
 
----
+`Next.js` · `Node.js` · `PostgreSQL` · `Drizzle` · `OpenAPI`
 
-### ☢️ [S.T.A.L.K.E.R. Save Editor](https://github.com/Dmitriy-DE/S.T.A.L.K.E.R.-Save_Editor)
+**Inside:** modular-monolith architecture, provider adapters, planning semantics, tenancy and release gates.
 
-Cross-platform save editor built around a shared format/parsing core.
+</td>
+<td width="50%" valign="top">
 
-`Python` · `Qt` · `PyInstaller` · `Pyodide` · `WebAssembly` · `Steam API`
+### 🚗 [Automotive CRM](https://github.com/Dmitriy-DE/automotive-crm-showcase)
 
-- Desktop UI, CLI and browser build share the same Python editing core.
-- Binary parsing, validation, CRC/rebuild safeguards and immutable previews.
-- Native Steam Cloud integration through `ctypes` with explicit fallback handling.
-- Browser version runs the Python core through Pyodide and keeps save processing local.
-- Linux and Windows packaging with CI diagnostics on packaged builds.
+Multi-service operational CRM with bots, public API and Telegram Mini Apps.
 
----
+`Node.js` · `Express` · `React` · `SQLite` · `Docker`
 
-### 🚗 [Automotive CRM](https://github.com/Dmitriy-DE/avtosvitcrm)
+**Inside:** service topology, auth/validation boundaries, multi-channel workflows and test strategy.
 
-Operational CRM and automation stack for an automotive business.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Node.js` · `Express` · `React` · `SQLite` · `Docker Compose` · `Jest`
+### 📣 [Campaign Platform](https://github.com/Dmitriy-DE/campaign-platform-showcase)
 
-- Main CRM application plus public API and bot services.
-- Containerised multi-service deployment.
-- JWT authentication, validation, rate limiting and structured logging.
-- Document / spreadsheet handling and scheduled operational jobs.
-- Telegram-facing services and several mini-app builds.
-- Server, bot and client test suites.
+Self-hosted campaign and user-operations backend.
 
----
+`TypeScript` · `Express 5` · `PostgreSQL` · `Docker` · `Playwright`
 
-### 🔎 [Telegram Automation / OSINT](https://github.com/Dmitriy-DE/TELEGRAM-OSINT-BOT)
+**Inside:** API lifecycle, webhook security, operational tooling and test pyramid.
 
-Private-oriented Telegram automation and data-processing tooling.
+</td>
+<td width="50%" valign="top">
 
-`Python` · `aiogram` · `Telethon` · `PostgreSQL` · `asyncpg` · `Docker`
+### 🎰 [Automation Platform](https://github.com/Dmitriy-DE/igaming-automation-platform-showcase)
 
-- Async Telegram bot and user-API integrations.
-- Persistent PostgreSQL state.
-- Background processing and report generation.
-- Encrypted sensitive configuration and operational automation.
+Sanitised architecture of an 18-direction automation monorepo.
+
+`Node.js` · `PostgreSQL` · `Docker` · `Linux` · `Monorepo`
+
+**Inside:** control plane, service isolation, schedulers, deployment boundaries and shared infrastructure.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ [DealFeed](https://github.com/Dmitriy-DE/dealfeed-showcase)
+
+TikTok-style mobile shopping feed with affiliate ingestion and privacy-aware analytics.
+
+`React Native` · `Expo` · `TypeScript` · `Supabase` · `PostHog`
+
+**Inside:** mobile architecture, RLS, Edge Functions, ingestion, redirect tracking and GDPR flows.
+
+</td>
+<td width="50%" valign="top">
+
+### ☢️ [S.T.A.L.K.E.R. Save Editor](https://github.com/Dmitriy-DE/stalker-save-editor-showcase)
+
+Cross-platform binary save tooling with one shared Python core.
+
+`Python` · `Qt` · `Pyodide` · `WebAssembly` · `Steam API`
+
+**Inside:** binary parsing, format registry, immutable preview, native boundaries and browser runtime.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
