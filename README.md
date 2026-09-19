@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="D — Technical Delivery and hands-on engineering" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Dima — Technical Delivery and hands-on engineering" />
 </p>
 
 <p align="center">
@@ -71,6 +71,22 @@
 
 <p align="center">
   <img src="./assets/engineering-spectrum.svg" width="100%" alt="Engineering spectrum"/>
+</p>
+
+<br/>
+
+## <code>&gt; what_i_build</code>
+
+<p align="center">
+  <img src="./assets/what-i-build.svg" width="100%" alt="What I build"/>
+</p>
+
+<br/>
+
+## <code>&gt; system_patterns</code>
+
+<p align="center">
+  <img src="./assets/system-patterns.svg" width="100%" alt="System patterns"/>
 </p>
 
 <br/>
