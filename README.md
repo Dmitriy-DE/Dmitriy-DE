@@ -30,44 +30,20 @@
 
 ## <code>&gt; featured_builds</code>
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/delivery-planner-showcase">
-    <img src="./assets/cards/delivery-planner.svg" width="100%" alt="Delivery Planner"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/automotive-crm-showcase">
-    <img src="./assets/cards/automotive-crm.svg" width="100%" alt="Automotive CRM"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/campaign-platform-showcase">
-    <img src="./assets/cards/campaign-platform.svg" width="100%" alt="Campaign Platform"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/igaming-automation-platform-showcase">
-    <img src="./assets/cards/automation-platform.svg" width="100%" alt="Automation Platform"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/dealfeed-showcase">
-    <img src="./assets/cards/dealfeed.svg" width="100%" alt="DealFeed"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Dmitriy-DE/stalker-save-editor-showcase">
-    <img src="./assets/cards/stalker.svg" width="100%" alt="S.T.A.L.K.E.R. Save Editor"/>
-  </a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Dmitriy-DE/delivery-planner-showcase"><img src="./assets/cards/delivery-planner.svg" width="49%" alt="Delivery Planner"/></a>
+  <a href="https://github.com/Dmitriy-DE/automotive-crm-showcase"><img src="./assets/cards/automotive-crm.svg" width="49%" alt="Automotive CRM"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dmitriy-DE/campaign-platform-showcase"><img src="./assets/cards/campaign-platform.svg" width="49%" alt="Campaign Platform"/></a>
+  <a href="https://github.com/Dmitriy-DE/igaming-automation-platform-showcase"><img src="./assets/cards/automation-platform.svg" width="49%" alt="Automation Platform"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dmitriy-DE/dealfeed-showcase"><img src="./assets/cards/dealfeed.svg" width="49%" alt="DealFeed"/></a>
+  <a href="https://github.com/Dmitriy-DE/stalker-save-editor-showcase"><img src="./assets/cards/stalker.svg" width="49%" alt="S.T.A.L.K.E.R. Save Editor"/></a>
+</p>
 
 <p align="center">
   <img src="./assets/engineering-spectrum.svg" width="100%" alt="Engineering spectrum"/>
