@@ -1,21 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="370" viewBox="0 0 570 370">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="a"><stop stop-color="#3fb950"/><stop offset="1" stop-color="#58a6ff"/></linearGradient></defs>
-<rect width="570" height="370" rx="24" fill="url(#g)" stroke="#30363d"/>
-<rect width="570" height="7" rx="3.5" fill="url(#a)"/>
-<text x="32" y="52" fill="#3fb950" font-family="monospace" font-size="12">OPERATIONS / MULTI-SURFACE</text>
-<text x="32" y="89" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Automotive CRM</text>
-<text x="32" y="120" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13">Web, API, bots and Mini Apps on one domain</text>
-<g transform="translate(32 154)">
-  <rect width="250" height="124" rx="16" fill="#0d1117" stroke="#30363d"/>
-  <text x="18" y="30" fill="#8b949e" font-family="monospace" font-size="10">operations queue</text>
-  <rect x="18" y="48" width="214" height="12" rx="6" fill="#161b22"/>
-  <rect x="18" y="48" width="188" height="12" rx="6" fill="#3fb950" opacity=".85"/>
-  <rect x="18" y="70" width="214" height="12" rx="6" fill="#161b22"/>
-  <rect x="18" y="70" width="145" height="12" rx="6" fill="#58a6ff" opacity=".75"/>
-  <rect x="18" y="92" width="150" height="12" rx="6" fill="#161b22"/>
-  <rect x="18" y="92" width="116" height="12" rx="6" fill="#3fb950" opacity=".55"/>
-</g>
-<g transform="translate(330 115)"><rect width="210" height="34" rx="8" fill="#0d1117" stroke="#30363d"/><rect width="60" height="6" x="14" y="14" rx="3" fill="#3fb950" opacity="0.45"/><text x="112" y="21" fill="#8b949e" font-family="monospace" font-size="10">vehicles</text></g><g transform="translate(330 163)"><rect width="210" height="34" rx="8" fill="#0d1117" stroke="#30363d"/><rect width="85" height="6" x="14" y="14" rx="3" fill="#3fb950" opacity="0.5700000000000001"/><text x="112" y="21" fill="#8b949e" font-family="monospace" font-size="10">clients</text></g><g transform="translate(330 211)"><rect width="210" height="34" rx="8" fill="#0d1117" stroke="#30363d"/><rect width="110" height="6" x="14" y="14" rx="3" fill="#3fb950" opacity="0.69"/><text x="112" y="21" fill="#8b949e" font-family="monospace" font-size="10">transit</text></g>
-<g transform="translate(32 310)"><rect width="92" height="28" rx="14" fill="#0d1117" stroke="#30363d"/><text x="46" y="18" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="11">Node.js</text></g><g transform="translate(137 310)"><rect width="92" height="28" rx="14" fill="#0d1117" stroke="#30363d"/><text x="46" y="18" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="11">React</text></g><g transform="translate(242 310)"><rect width="92" height="28" rx="14" fill="#0d1117" stroke="#30363d"/><text x="46" y="18" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="11">Docker</text></g>
-<text x="32" y="350" fill="#6e7681" font-family="monospace" font-size="10">open showcase →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="410" viewBox="0 0 570 410">
+<defs><linearGradient id="g"><stop stop-color="#3fb950"/><stop offset="1" stop-color="#58a6ff"/></linearGradient></defs>
+<rect width="570" height="410" rx="23" fill="#111827" stroke="#30363d"/>
+<rect width="570" height="6" rx="3" fill="url(#g)"/>
+<text x="30" y="42" fill="#3fb950" font-family="monospace" font-size="10">OPERATIONS / MULTI-SURFACE</text>
+<text x="30" y="78" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Automotive CRM</text>
+<text x="30" y="106" fill="#a8b3c2" font-family="Arial,Helvetica,sans-serif" font-size="12">One operational domain across web, API</text>
+<text x="30" y="124" fill="#a8b3c2" font-family="Arial,Helvetica,sans-serif" font-size="12">and Telegram</text>
+<line x1="30" y1="145" x2="540" y2="145" stroke="#30363d"/>
+<text x="30" y="169" fill="#8b949e" font-family="monospace" font-size="9">INSIDE</text>
+<text x="315" y="169" fill="#8b949e" font-family="monospace" font-size="9">CORE</text>
+<g transform="translate(30 183)"><circle cx="6" cy="10" r="5" fill="#3fb950"/><text x="20" y="14" fill="#c9d1d9" font-family="monospace" font-size="11">vehicles</text></g><g transform="translate(30 223)"><circle cx="6" cy="10" r="5" fill="#3fb950"/><text x="20" y="14" fill="#c9d1d9" font-family="monospace" font-size="11">clients</text></g><g transform="translate(30 263)"><circle cx="6" cy="10" r="5" fill="#3fb950"/><text x="20" y="14" fill="#c9d1d9" font-family="monospace" font-size="11">transit</text></g><g transform="translate(315 183)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><rect x="10" y="10" width="48" height="7" rx="3.5" fill="#58a6ff" opacity=".8"/><text x="88" y="18" fill="#c9d1d9" font-family="monospace" font-size="10">staff CRM</text></g><g transform="translate(315 223)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><rect x="10" y="10" width="66" height="7" rx="3.5" fill="#58a6ff" opacity=".8"/><text x="88" y="18" fill="#c9d1d9" font-family="monospace" font-size="10">public API</text></g><g transform="translate(315 263)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><rect x="10" y="10" width="84" height="7" rx="3.5" fill="#58a6ff" opacity=".8"/><text x="88" y="18" fill="#c9d1d9" font-family="monospace" font-size="10">mini apps</text></g>
+<line x1="30" y1="338" x2="540" y2="338" stroke="#30363d"/>
+<g transform="translate(30 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="10">Node.js</text></g><g transform="translate(134 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="10">React</text></g><g transform="translate(238 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="10">Docker</text></g>
+<text x="438" y="373" fill="#6e7681" font-family="monospace" font-size="9">showcase →</text>
 </svg>
