@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/Dmitriy-DE/dealfeed-showcase"><img src="./assets/cards/dealfeed.svg" width="49%" alt="DealFeed"/></a>
-  <a href="https://github.com/Dmitriy-DE/stalker-save-editor-showcase"><img src="./assets/cards/stalker.svg" width="49%" alt="S.T.A.L.K.E.R. Save Editor"/></a>
+  <a href="https://github.com/Dmitriy-DE/S.T.A.L.K.E.R.-Save_Editor"><img src="./assets/cards/stalker.svg" width="49%" alt="S.T.A.L.K.E.R. Save Editor"/></a>
 </p>
 
 <p align="center">
