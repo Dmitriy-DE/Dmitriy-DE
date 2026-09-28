@@ -17,7 +17,7 @@
 <text x="38" y="84" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">What I build myself</text>
 <text x="38" y="126" fill="#c9d1d9" font-family="Arial" font-size="16">Design · code · integrate · package · deploy</text>
 <text x="38" y="166" fill="#8b949e" font-family="monospace" font-size="14">products · APIs · automation · tooling</text>
-<text x="38" y="199" fill="#8b949e" font-family="monospace" font-size="14">Python · TypeScript · Node · PostgreSQL</text>
+<text x="38" y="199" fill="#8b949e" font-family="monospace" font-size="14">C# · Python · TypeScript · Node · PostgreSQL</text>
 <text x="38" y="232" fill="#8b949e" font-family="monospace" font-size="14">Docker · Linux · edge / cloud runtimes</text>
 </g>
 </svg>

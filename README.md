@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -42,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Dmitriy-DE/dealfeed-showcase"><img src="./assets/cards/dealfeed.svg" width="49%" alt="DealFeed"/></a>
-  <a href="https://github.com/Dmitriy-DE/S.T.A.L.K.E.R.-Save_Editor"><img src="./assets/cards/stalker.svg" width="49%" alt="S.T.A.L.K.E.R. Save Editor"/></a>
+  <a href="https://github.com/Dmitriy-DE/S.T.A.L.K.E.R.-Save-Editor"><img src="./assets/cards/stalker.svg" width="49%" alt="S.T.A.L.K.E.R. Save Editor"/></a>
 </p>
 
 <p align="center">
