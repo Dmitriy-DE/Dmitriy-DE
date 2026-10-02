@@ -1,23 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
-<defs><linearGradient id="w"><stop stop-color="#1f6feb"/><stop offset="1" stop-color="#58a6ff"/></linearGradient><linearGradient id="g"><stop stop-color="#238636"/><stop offset="1" stop-color="#3fb950"/></linearGradient></defs>
-<rect width="1200" height="420" rx="28" fill="#0d1117" stroke="#30363d"/>
-<text x="60" y="64" fill="#8b949e" font-family="monospace" font-size="14">TWO LANES — KEPT DELIBERATELY SEPARATE</text>
-<g transform="translate(60 94)">
-<rect width="510" height="270" rx="22" fill="#111827" stroke="#30363d"/><rect width="8" height="270" rx="4" fill="url(#w)"/>
-<text x="38" y="48" fill="#58a6ff" font-family="monospace" font-size="14">WORK / DELIVERY</text>
-<text x="38" y="84" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">What I lead professionally</text>
-<text x="38" y="126" fill="#c9d1d9" font-family="Arial" font-size="16">Technical Delivery · Programme Management</text>
-<text x="38" y="166" fill="#8b949e" font-family="monospace" font-size="14">10+ years · 4+ years iGaming · teams 5–30</text>
-<text x="38" y="199" fill="#8b949e" font-family="monospace" font-size="14">roadmaps · releases · RAID · incidents</text>
-<text x="38" y="232" fill="#8b949e" font-family="monospace" font-size="14">fintech · SaaS · cloud · mobile / web</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b10"/><stop offset="1" stop-color="#08131b"/></linearGradient></defs>
+<rect width="1200" height="310" rx="26" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="308" rx="25" fill="none" stroke="#16475a"/>
+<text x="42" y="50" fill="#16d9ff" font-family="monospace" font-size="15">› two_lanes</text>
+<text x="42" y="80" fill="#8fa5b1" font-family="Arial" font-size="15">The résumé and GitHub tell different parts of the same story.</text>
+
+<g transform="translate(42 105)">
+<rect width="540" height="160" rx="18" fill="#081722" stroke="#1c566b"/>
+<rect width="6" height="160" rx="3" fill="#55b6ff"/>
+<text x="26" y="34" fill="#55b6ff" font-family="monospace" font-size="11">PROFESSIONAL LANE</text>
+<text x="26" y="67" fill="#f5f8fa" font-family="Arial" font-size="24" font-weight="700">Technical Delivery &amp; Programme Leadership</text>
+<text x="26" y="99" fill="#c0cdd4" font-family="Arial" font-size="15">Roadmaps · releases · RAID · teams · incidents · execution</text>
+<text x="26" y="126" fill="#8fa5b1" font-family="Arial" font-size="14">iGaming · fintech · SaaS · cloud · mobile / web · infrastructure</text>
 </g>
-<g transform="translate(630 94)">
-<rect width="510" height="270" rx="22" fill="#111827" stroke="#30363d"/><rect width="8" height="270" rx="4" fill="url(#g)"/>
-<text x="38" y="48" fill="#3fb950" font-family="monospace" font-size="14">GITHUB / ENGINEERING</text>
-<text x="38" y="84" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">What I build myself</text>
-<text x="38" y="126" fill="#c9d1d9" font-family="Arial" font-size="16">Design · code · integrate · package · deploy</text>
-<text x="38" y="166" fill="#8b949e" font-family="monospace" font-size="14">products · APIs · automation · tooling</text>
-<text x="38" y="199" fill="#8b949e" font-family="monospace" font-size="14">C# · Python · TypeScript · Node · PostgreSQL</text>
-<text x="38" y="232" fill="#8b949e" font-family="monospace" font-size="14">Docker · Linux · edge / cloud runtimes</text>
+
+<g transform="translate(618 105)">
+<rect width="540" height="160" rx="18" fill="#081722" stroke="#1c566b"/>
+<rect width="6" height="160" rx="3" fill="#2fe3b0"/>
+<text x="26" y="34" fill="#2fe3b0" font-family="monospace" font-size="11">GITHUB LANE</text>
+<text x="26" y="67" fill="#f5f8fa" font-family="Arial" font-size="24" font-weight="700">Hands-on Product &amp; Engineering</text>
+<text x="26" y="99" fill="#c0cdd4" font-family="Arial" font-size="15">Design · code · integrate · test · package · deploy · automate</text>
+<text x="26" y="126" fill="#8fa5b1" font-family="Arial" font-size="14">C# · Python · TypeScript · Node · PostgreSQL · Docker · Linux</text>
 </g>
 </svg>
