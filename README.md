@@ -89,8 +89,8 @@
 
 <p align="center">
   <a href="https://github.com/Dmitriy-DE"><img src="https://img.shields.io/badge/GitHub-@Dmitriy--DE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dmitriy-de"><img src="https://img.shields.io/badge/LinkedIn-dmitriy--de-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dmitriy.de.dev@gmail.com"><img src="https://img.shields.io/badge/Email-dmitriy.de.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dmytro-deryvedmid-020557178/"><img src="https://img.shields.io/badge/LinkedIn-dmitriy--de-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:breygel.dima@gmail.com"><img src="https://img.shields.io/badge/Email-breygel.dima%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><sub>Build things. Ship things. Make the boring parts disappear.</sub></p>
