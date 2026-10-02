@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="570" height="410" viewBox="0 0 570 410">
-<defs><linearGradient id="g"><stop stop-color="#f85149"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
-<rect x=".5" y=".5" width="569" height="409" rx="22.5" fill="#111827" stroke="#30363d"/>
-<rect x=".5" y=".5" width="569" height="6" rx="3" fill="url(#g)"/>
-<text x="30" y="42" fill="#f85149" font-family="monospace" font-size="10">BACKEND / OPERATIONS</text>
-<text x="30" y="78" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Campaign Platform</text>
-<text x="30" y="106" fill="#a8b3c2" font-family="Arial,Helvetica,sans-serif" font-size="11.5">Backend-heavy operations with auth,</text>
-<text x="30" y="124" fill="#a8b3c2" font-family="Arial,Helvetica,sans-serif" font-size="11.5">webhooks and imports</text>
-<line x1="30" y1="145" x2="540" y2="145" stroke="#30363d"/>
-<text x="30" y="169" fill="#8b949e" font-family="monospace" font-size="8.5">INSIDE</text>
-<text x="315" y="169" fill="#8b949e" font-family="monospace" font-size="8.5">CORE</text>
-<g transform="translate(30 184)"><circle cx="6" cy="9" r="4.5" fill="#f85149"/><text x="20" y="13" fill="#c9d1d9" font-family="monospace" font-size="10.5">api</text></g><g transform="translate(30 224)"><circle cx="6" cy="9" r="4.5" fill="#f85149"/><text x="20" y="13" fill="#c9d1d9" font-family="monospace" font-size="10.5">webhooks</text></g><g transform="translate(30 264)"><circle cx="6" cy="9" r="4.5" fill="#f85149"/><text x="20" y="13" fill="#c9d1d9" font-family="monospace" font-size="10.5">imports</text></g><g transform="translate(315 184)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><circle cx="15" cy="14" r="4" fill="#a371f7"/><text x="29" y="18" fill="#c9d1d9" font-family="monospace" font-size="9.2">auth</text></g><g transform="translate(315 224)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><circle cx="15" cy="14" r="4" fill="#a371f7"/><text x="29" y="18" fill="#c9d1d9" font-family="monospace" font-size="9.2">Postgres</text></g><g transform="translate(315 264)"><rect width="210" height="28" rx="8" fill="#0d1117" stroke="#30363d"/><circle cx="15" cy="14" r="4" fill="#a371f7"/><text x="29" y="18" fill="#c9d1d9" font-family="monospace" font-size="9.2">tests</text></g>
-<line x1="30" y1="338" x2="540" y2="338" stroke="#30363d"/>
-<g transform="translate(30 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="9.5">TypeScript</text></g><g transform="translate(134 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="9.5">Postgres</text></g><g transform="translate(238 355)"><rect width="92" height="27" rx="13.5" fill="#0d1117" stroke="#30363d"/><text x="46" y="17" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="9.5">E2E</text></g>
-<text x="438" y="373" fill="#6e7681" font-family="monospace" font-size="8.5">showcase →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="290" viewBox="0 0 570 290">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d65bff"/><stop offset="1" stop-color="#16d9ff"/></linearGradient></defs>
+<rect x=".5" y=".5" width="569" height="289" rx="22" fill="#07131b" stroke="#16475a"/>
+<rect x="1" y="1" width="568" height="6" rx="3" fill="url(#g)"/>
+<text x="28" y="38" fill="#d65bff" font-family="monospace" font-size="11">BACKEND / TRUST BOUNDARIES</text>
+<text x="28" y="76" fill="#f5f8fa" font-family="Arial" font-size="28" font-weight="800">Campaign Platform</text>
+<text x="28" y="105" fill="#b8c7cf" font-family="Arial" font-size="15">Campaign and user operations with explicit trust.</text>
+<line x1="28" y1="126" x2="542" y2="126" stroke="#173f50"/>
+<circle cx="34" cy="157" r="4" fill="#d65bff"/><text x="48" y="162" fill="#dce6eb" font-family="Arial" font-size="14">Public · authenticated · provider · admin</text><circle cx="34" cy="184" r="4" fill="#d65bff"/><text x="48" y="189" fill="#dce6eb" font-family="Arial" font-size="14">Signed unsubscribe + verified webhooks</text><circle cx="34" cy="211" r="4" fill="#d65bff"/><text x="48" y="216" fill="#dce6eb" font-family="Arial" font-size="14">Liveness ≠ readiness</text>
+<g transform="translate(28 244)"><g transform="translate(0 0)"><rect width="100" height="26" rx="8" fill="#0b1d27" stroke="#1c566b"/><text x="50" y="17" text-anchor="middle" fill="#aabac3" font-family="monospace" font-size="10">Express 5</text></g><g transform="translate(112 0)"><rect width="100" height="26" rx="8" fill="#0b1d27" stroke="#1c566b"/><text x="50" y="17" text-anchor="middle" fill="#aabac3" font-family="monospace" font-size="10">Postgres</text></g><g transform="translate(224 0)"><rect width="100" height="26" rx="8" fill="#0b1d27" stroke="#1c566b"/><text x="50" y="17" text-anchor="middle" fill="#aabac3" font-family="monospace" font-size="10">Docker</text></g></g>
+<text x="492" y="263" fill="#d65bff" font-family="monospace" font-size="10">open →</text>
 </svg>
